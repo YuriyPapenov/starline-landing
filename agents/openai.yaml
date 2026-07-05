@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starline Landing"
+  short_description: "Build Starline e-commerce landing pages"
+  default_prompt: "Use $starline-landing to create or refine the Starline one-page e-commerce growth landing."
